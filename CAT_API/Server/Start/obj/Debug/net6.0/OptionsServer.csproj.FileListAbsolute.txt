@@ -1,0 +1,36 @@
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\OptionsServer.deps.json
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\OptionsServer.dll
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\OptionsServer.pdb
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.AssemblyReference.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfoInputs.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfo.cs
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.dll
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\refint\OptionsServer.dll
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\OptionsServer.pdb
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\ref\OptionsServer.dll
+C:\Users\User\Desktop\Server\Start\bin\Debug\net6.0\OptionsServer.deps.json
+C:\Users\User\Desktop\Server\Start\bin\Debug\net6.0\OptionsServer.dll
+C:\Users\User\Desktop\Server\Start\bin\Debug\net6.0\OptionsServer.pdb
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfo.cs
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.dll
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\refint\OptionsServer.dll
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\OptionsServer.pdb
+C:\Users\User\Desktop\Server\Start\obj\Debug\net6.0\ref\OptionsServer.dll
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\bin\Debug\net6.0\OptionsServer.deps.json
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\bin\Debug\net6.0\OptionsServer.dll
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\bin\Debug\net6.0\OptionsServer.pdb
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.AssemblyReference.cache
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfoInputs.cache
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.AssemblyInfo.cs
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.dll
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\refint\OptionsServer.dll
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\OptionsServer.pdb
+D:\Практические уроки С#\2 курс\APICAT\Server\Start\obj\Debug\net6.0\ref\OptionsServer.dll

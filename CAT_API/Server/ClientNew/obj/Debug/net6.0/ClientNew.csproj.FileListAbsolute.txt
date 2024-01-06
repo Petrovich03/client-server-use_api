@@ -1,0 +1,15 @@
+D:\Практические уроки С#\ClientNew\ClientNew\bin\Debug\net6.0\ClientNew.exe
+D:\Практические уроки С#\ClientNew\ClientNew\bin\Debug\net6.0\ClientNew.deps.json
+D:\Практические уроки С#\ClientNew\ClientNew\bin\Debug\net6.0\ClientNew.runtimeconfig.json
+D:\Практические уроки С#\ClientNew\ClientNew\bin\Debug\net6.0\ClientNew.dll
+D:\Практические уроки С#\ClientNew\ClientNew\bin\Debug\net6.0\ClientNew.pdb
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.csproj.AssemblyReference.cache
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.AssemblyInfoInputs.cache
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.AssemblyInfo.cs
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.dll
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\refint\ClientNew.dll
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.pdb
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ClientNew.genruntimeconfig.cache
+D:\Практические уроки С#\ClientNew\ClientNew\obj\Debug\net6.0\ref\ClientNew.dll

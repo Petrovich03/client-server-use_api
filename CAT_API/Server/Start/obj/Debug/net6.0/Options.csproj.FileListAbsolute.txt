@@ -1,0 +1,12 @@
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\Options.deps.json
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\Options.dll
+D:\Практические уроки С#\Server\Start\bin\Debug\net6.0\Options.pdb
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.csproj.AssemblyReference.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.GeneratedMSBuildEditorConfig.editorconfig
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.AssemblyInfoInputs.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.AssemblyInfo.cs
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.dll
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\refint\Options.dll
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\Options.pdb
+D:\Практические уроки С#\Server\Start\obj\Debug\net6.0\ref\Options.dll

@@ -1,0 +1,47 @@
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.AssemblyReference.cache
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.SuggestedBindingRedirects.cache
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.g.cs
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\App.g.cs
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.cache
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.lref
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe.config
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.pdb
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.baml
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.g.resources
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.Properties.Resources.resources
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.GenerateResource.cache
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.exe
+D:\Практические уроки С#\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.pdb
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe.config
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.pdb
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.cache
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.lref
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.g.resources
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.Properties.Resources.resources
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.exe
+C:\Users\User\Desktop\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.pdb
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe.config
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.exe
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\bin\Debug\ClientUpdate.pdb
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.AssemblyReference.cache
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.g.cs
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\App.g.cs
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.cache
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate_MarkupCompile.lref
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\MainWindow.baml
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.g.resources
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.Properties.Resources.resources
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.GenerateResource.cache
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.csproj.CoreCompileInputs.cache
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.exe
+D:\Практические уроки С#\2 курс\APICAT\ClientUpdate\ClientUpdate\obj\Debug\ClientUpdate.pdb
